@@ -1,0 +1,63 @@
+body {
+    background-color: #121212;
+    
+}
+
+#contentt{
+    padding: 250px 100px;
+    margin: 0px 265px
+}
+
+#content2 {
+    padding: 100px 100px;
+    color: #ba68c8;
+}
+
+a {
+    font-family: futura;
+    color: #8e24aa;
+}
+p{
+    color: #ce93d8;
+}
+i {
+    color: #ce93d8;
+    padding: 80px 70px 250px 70px;
+}
+
+.snsIcons{
+    text-align: center;
+}
+
+i:active{
+    color:#f3e5f5;
+}
+
+
+
+
+h1{
+    font-family: futura;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 82px;
+    letter-spacing: 0em;
+    line-height: 1em;
+    text-transform: lowercase;
+    text-align: center;
+    white-space: pre-wrap;
+    color: #ce93d8
+}
+
+h2{
+    font-family: futura;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+    letter-spacing: .01em;
+    line-height: 1.4em;
+    text-transform: none;
+    text-align: center;
+    white-space: pre-wrap;
+    color: #ce93d8;
+}
